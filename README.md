@@ -1,6 +1,6 @@
 # (Artificial intelligence) AI
 
-  ADEDIPE EMMANUELS BLOG 
+  # ADEDIPE EMMANUELS BLOG 
     ![Tux, the Linux mascot](Unknown.jpeg)
 
 
