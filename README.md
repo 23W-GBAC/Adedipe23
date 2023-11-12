@@ -11,6 +11,7 @@ Understanding AI
 
 AI refers to the development of computer systems that can perform tasks that typically require human intelligence. These tasks include problem-solving, learning, reasoning, understanding natural language, and making decisions. AI systems can range from basic rule-based programs to advanced machine learning algorithms.
 
+![Tux, the Linux mascot](Unknown-3.jpeg)
 AI in Everyday Life
 
 AI has become deeply embedded in our daily routines. Smart home devices like Amazon's Alexa and Google Home are AI-driven virtual assistants that can answer questions, control household appliances, and even engage in conversation. Recommendation systems used by streaming platforms, such as Netflix and Spotify, analyze our preferences to suggest content we might enjoy.
