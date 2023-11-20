@@ -1,8 +1,8 @@
-ADEDIPE DAMILOLA EMMANUEL                                                  
+#ADEDIPE DAMILOLA EMMANUEL                                                  
                              
-TOPIC 
+#TOPIC 
 
-ARTIFICIAL INTELLIGENCE (AI)
+##ARTIFICIAL INTELLIGENCE (AI)
 
 WHAT IS ARTIFICIAL INTELLIGENCE (AI)
 
