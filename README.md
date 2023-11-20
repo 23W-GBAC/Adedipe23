@@ -59,6 +59,10 @@ THEY INCLUDE :
 
  #  HISTORY OF ARTIFICIAL INTELLIGENCE (AI)
    
+
+![Tux, the Linux mascot](The-Brain-Intelligent-Machines-AI-timeline.jpg)
+
+
 *WHO IS THE FATHER OF AI* 
   John McCarthy is considered as the father of Artificial Intelligence. John McCarthy was an American computer scientist. The term "artificial intelligence" was coined by him. He is one of the founder of artificial intelligence, together with Alan Turing, Marvin Minsky, Allen Newell, and Herbert 
 
