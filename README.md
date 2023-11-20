@@ -63,8 +63,12 @@ THEY INCLUDE :
 ![Tux, the Linux mascot](The-Brain-Intelligent-Machines-AI-timeline.jpg)
 
 
-*WHO IS THE FATHER OF AI* 
-  John McCarthy is considered as the father of Artificial Intelligence. John McCarthy was an American computer scientist. The term "artificial intelligence" was coined by him. He is one of the founder of artificial intelligence, together with Alan Turing, Marvin Minsky, Allen Newell, and Herbert 
+# WHO IS THE FATHER OF AI* 
+
+![Tux, the Linux mascot](48-John-McCarthy-AP.jpg.webp)
+
+
+  *John McCarthy* is considered as the father of Artificial Intelligence. John McCarthy was an American computer scientist. The term "artificial intelligence" was coined by him. He is one of the founder of artificial intelligence, together with Alan Turing, Marvin Minsky, Allen Newell, and Herbert 
 
   In the first half of the 20th century, science fiction familiarized the world with the concept of artificially intelligent robots. It began with the “heartless” Tin man from the Wizard of Oz and continued with the humanoid robot that impersonated Maria in Metropolis. By the 1950s, we had a generation of scientists, mathematicians, and philosophers with the concept of artificial intelligence (or AI) culturally assimilated in their minds. One such person was Alan Turing, a young British polymath who explored the mathematical possibility of artificial intelligence. Turing suggested that humans use available information as well as reason in order to solve problems and make decisions, so why can’t machines do the same thing? This was the logical framework of his 1950 paper, computing machinery and intelligence in which he discussed how to build intelligent machines and how to test their intelligence.
 
