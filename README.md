@@ -2,6 +2,9 @@
                              
 # TOPIC 
 
+![Tux, the Linux mascot](image-2.jpeg)
+
+
 ## ARTIFICIAL INTELLIGENCE (AI)
 
 *WHAT IS ARTIFICIAL INTELLIGENCE (AI)*
