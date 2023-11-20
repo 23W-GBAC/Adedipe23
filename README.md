@@ -84,11 +84,11 @@ At the beginning of 1950, John Von Neumann and Alan Turing did not create the te
 
    * During the late 1980s and 1990s, there was a resurgence of interest in AI, fueled in part by advancements in machine learning. Neural networks, particularly backpropagation algorithms, gained attention. The field of machine learning began to thrive.
 
- 1997: Deep Blue vs. Garry Kasparov
+### 1997: Deep Blue vs. Garry Kasparov
 
    * IBM's Deep Blue, a chess-playing computer, defeated world chess champion Garry Kasparov in a landmark match in 1997. This event showcased the potential of AI in specialized tasks.
 
-2000s: Rise of Data-Driven AI and Big Data
+### 2000s: Rise of Data-Driven AI and Big Data
 
   * The 2000s witnessed a shift toward data-driven approaches in AI. The availability of large datasets and improvements in computing power contributed to advancements in machine learning and the emergence of Big Data analytics.
 
