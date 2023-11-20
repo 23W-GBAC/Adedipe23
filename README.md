@@ -1,5 +1,5 @@
 # ADEDIPE DAMILOLA EMMANUEL                                                  
-                             
+#  PAGE 1                         
 # TOPIC 
 
 ![Tux, the Linux mascot](Artificial-Intelligence1.jpg)
@@ -110,3 +110,5 @@ At the beginning of 1950, John Von Neumann and Alan Turing did not create the te
  ### Present and Future: Continued Advancements and Ethical Considerations
 
  * AI continues to advance rapidly, with applications in healthcare, finance, autonomous vehicles, and more. Ethical considerations, transparency, and responsible AI development have become key areas of focus.
+
+# SOURCE : FROM GOGGLE , CHATGPT 
