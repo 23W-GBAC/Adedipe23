@@ -74,7 +74,7 @@ THEY INCLUDE :
 
 *The history of Artificial Intelligence (AI) spans several decades and has evolved through multiple phases of research, development, and technological advancements. Here's a brief overview of key milestones in the history of AI:*
 
-  ### 1940s - 1950s: Early Concepts and Theoretical Foundations
+  ## 1940s - 1950s: Early Concepts and Theoretical Foundations
   * The concept of AI can be traced back to the 1940s and 1950s. Mathematician and logician Alan Turing proposed the Turing Test in 1950, suggesting that a machine could be considered intelligent if it could exhibit human-like behavior indistinguishable from that of a human
     * 1956: Birth of AI as a Field
     * The term "Artificial Intelligence" was coined during the Dartmouth Conference in 1956. The conference, organized by John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon, marked the official beginning of AI as a distinct field of study.
@@ -103,11 +103,11 @@ At the beginning of 1950, John Von Neumann and Alan Turing did not create the te
 
   * The 2000s witnessed a shift toward data-driven approaches in AI. The availability of large datasets and improvements in computing power contributed to advancements in machine learning and the emergence of Big Data analytics.Further advances in machine learning, deep learning, NLP, speech recognition and computer vision gave rise to products and services that have shaped the way we live today. These include the 2000 launch of Google's search engine and the 2001 launch of Amazon's recommendation engine. Netflix developed its recommendation system for movies, Facebook introduced its facial recognition system and Microsoft launched its speech recognition system for transcribing speech into text. IBM launched Watson and Google started its self-driving initiative, Waymo
 
- ### 2010s: Deep Learning Dominance and AI Applications
+ ## 2010s: Deep Learning Dominance and AI Applications
 
  * Deep learning, a subfield of machine learning involving neural networks with multiple layers, gained prominence in the 2010s. Breakthroughs in image and speech recognition, natural language processing, and autonomous systems fueled the application of AI in various industries.The decade between 2010 and 2020 saw a steady stream of AI developments. These include the launch of Apple's Siri and Amazon's Alexa voice assistants; IBM Watson's victories on Jeopardy; self-driving cars; the development of the first generative adversarial network; the launch of TensorFlow, Google's open source deep learning framework; the founding of research lab OpenAI, developers of the GPT-3 language model and Dall-E image generator; the defeat of world Go champion Lee Sedol by Google DeepMind's AlphaGo; and the implementation of AI-based systems that detect cancers with a high degree of accuracy.
 
- ### Present and Future: Continued Advancements and Ethical Considerations
+ ## Present and Future: Continued Advancements and Ethical Considerations
 
  * AI continues to advance rapidly, with applications in healthcare, finance, autonomous vehicles, and more. Ethical considerations, transparency, and responsible AI development have become key areas of focus.
 
