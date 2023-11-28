@@ -2,7 +2,7 @@
 #  PAGE 1                         
 # TOPIC 
 
-![Tux, the Linux mascot](Artificial-Intelligence1.jpg)
+![Tux, the Linux mascot](/blog_images/Artificial-Intelligence1.jpg)
 
 
 ## ARTIFICIAL INTELLIGENCE (AI)
