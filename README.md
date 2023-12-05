@@ -237,15 +237,15 @@ At the beginning of 1950, John Von Neumann and Alan Turing did not create the te
 
 #### Artificial intelligence has made its way into a wide variety of markets.
 
- #### AI in healthcare. 
+####   AI In Health Care 
  
 The biggest bets are on improving patient outcomes and reducing costs. Companies are applying machine learning to make better and faster medical diagnoses than humans. One of the best-known healthcare technologies is IBM Watson. It understands natural language and can respond to questions asked of it. The system mines patient data and other available data sources to form a hypothesis, which it then presents with a confidence scoring schema. Other AI applications include using online virtual health assistants and chatbots  to help patients and healthcare customers find medical information, schedule appointments, understand the billing process and complete other administrative processes. 
 
- #### AI in business.
+####   AI In Bussiness.
  
  Machine learning algorithms are being integrated into analytics and customer relationship management  platforms to uncover information on how to better serve customers. Chatbots have been incorporated into websites to provide immediate service to customers. The rapid advancement of generative AI technology such as chatGPT is expected to have far-reaching consequences: eliminating jobs, revolutionizing product design and disrupting business models.
 
- #### AI in education. 
+####   AI In Education. 
  
 AI can automate grading, giving educators more time for other tasks. It can assess students and adapt to their needs, helping them work at their own pace. AI tutors can provide additional support to students, ensuring they stay on track. The technology could also change where and how students learn, perhaps even replacing some teachers. As demonstrated by ChatGPT and other large language models, generative AI can help educators craft course work and other teaching materials and engage students in new ways. The advent of these tools also forces educators to rethink student homework and testing and revise policies on plagiarism.
 
