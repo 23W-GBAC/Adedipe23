@@ -116,3 +116,157 @@ At the beginning of 1950, John Von Neumann and Alan Turing did not create the te
  * AI continues to advance rapidly, with applications in healthcare, finance, autonomous vehicles, and more. Ethical considerations, transparency, and responsible AI development have become key areas of focus.
 
 ## SOURCE : FROM GOGGLE , CHATGPT
+
+
+PAGE 2 ; DATE :05/12/2023
+
+## HOW DOES AI WORKS AND HOW TO USE AI
+
+### A simplified overview of how AI works:
+
+  ####        Data Collection:
+    * AI systems require large amounts of data to learn and make predictions or decisions. The quality and quantity of the data play a crucial role in the effectiveness of the AI model
+
+   ####          	Data Preprocessing:
+    * Raw data often needs to be cleaned, organized, and transformed before it can be used to train an AI model. This step is crucial for improving the model's accuracy and efficiency.
+
+ #### 	Training the Model:
+    * During the training phase, the AI model learns patterns and features from the preprocessed data. This involves using algorithms to adjust the model's parameters until it can make accurate predictions or classifications.
+
+   ####            Testing and Validation:
+
+    * The trained model is tested on new data to ensure its performance is not limited to the training set. Validation helps identify and address issues such as overfitting (performing well on the training data but poorly on new data)
+
+#### 		Deployment:
+    * Once the model has been trained and validated, it can be deployed for real-world use. This involves integrating the AI model into the desired application or system.
+
+#### 		Feedback Loop:
+    * AI systems often include a feedback loop where they continuously learn from new data and user interactions, improving their performance over time.
+
+  ##            How to use AI:
+
+#### 		Identify a Problem or Task:
+    * Determine a specific problem or task where AI can provide value. This could range from automating repetitive tasks to making predictions based on data.
+   
+####  Data Collection:
+    * Gather relevant data for the task at hand. The quality and quantity of data are critical factors in the success of an AI model.
+
+  #### Choose an AI Approach:
+    * Select the appropriate AI approach based on the nature of the problem. This could involve using machine learning algorithms for pattern recognition or natural language processing for understanding and generating human language.
+
+#### 		Select or Develop a Model:
+    * Choose an existing AI model or develop a custom model based on the chosen approach. Many pre-trained models are available for common tasks.
+
+ #### Train the Model:
+    * Train the model using the collected and preprocessed data. This step involves adjusting the model's parameters to improve its performance on the specific task.
+
+#### 		Testing and Validation:
+    * Evaluate the model's performance on new data to ensure it generalizes well and performs accurately in real-world scenarios.
+
+#### 		Deployment:
+    * Integrate the trained model into the intended application or system for practical use.
+
+#### 		Monitor and Update:
+    * Continuously monitor the AI system's performance, and update the model as needed. This may involve retraining the model with new data to adapt to changing conditions.
+
+
+
+
+
+
+## WHAT ARE THE ADVANTAGES & DISADVANTAGES OF AI( ARTIFICIAL INTELLIGENCE )
+
+
+### Advantages of Artificial Intelligence:
+
+  ####      	Automation:
+    * AI can automate repetitive and mundane tasks, freeing up human resources for more creative and complex activities.
+
+#### 		Efficiency:
+    * AI systems can process vast amounts of data at high speeds, leading to increased efficiency in decision-making and problem-solving.
+
+#### 		Accuracy:
+    * AI models, when properly trained, can provide highly accurate and consistent results, reducing the risk of human errors.
+
+* #### 		24/7 Operations:
+    * AI systems do not require breaks and can operate continuously, leading to around-the-clock availability and productivity.
+
+* ####  		Data Analysis:
+    * AI excels at analyzing large datasets, identifying patterns, and extracting valuable insights, which can inform better decision-making.
+
+* #### 		Innovation and Creativity:
+    * AI technologies, such as generative models, can contribute to creative processes by generating new ideas, designs, and content.
+
+* #### 		Personalization:
+    * AI enables personalized experiences in areas like content recommendations, marketing, and user interfaces, tailoring services to individual preferences.
+
+* #### 		Medical Advances:
+    * AI is used in healthcare for diagnostic purposes, drug discovery, and personalized medicine, contributing to advancements in patient care.
+
+## Disadvantages of Artificial Intelligence:
+
+* #### 		Job Displacement:
+    * Automation driven by AI can lead to job displacement in certain industries, as machines may replace certain human tasks.
+
+* #### 		Bias and Fairness:
+    * AI models can inherit biases present in training data, leading to biased outcomes and decisions. Ensuring fairness and mitigating biases is a significant challenge.
+
+* #### 		Lack of Creativity:
+    * While AI can perform specific creative tasks, it lacks true creativity, intuition, and emotional understanding that humans possess.
+
+* #### 		Security Concerns:
+    * As AI becomes more integrated into various systems, there are concerns about the security of AI applications, including vulnerabilities to hacking and malicious use.
+
+* #### 		Ethical Concerns:
+    * AI raises ethical questions related to privacy, accountability, and the responsible use of technology. Ensuring that AI systems are used ethically is a complex challenge.
+
+* #### 		Dependency and Reliability:
+    * Overreliance on AI systems can pose risks, especially when they malfunction or encounter unforeseen situations. Ensuring the reliability of AI systems is crucial.
+
+* #### 		High Initial Costs:
+    * Developing and implementing AI technologies can require significant financial investments in terms of infrastructure, training, and research.
+
+* #### 		Lack of Understanding:
+    * The complexity of AI algorithms and models can make them difficult to understand, leading to challenges in interpreting and explaining their decisions (the "black box" problem).
+
+
+
+# What are the applications of AI?
+
+#### Artificial intelligence has made its way into a wide variety of markets.
+
+ ####   AI in healthcare. 
+The biggest bets are on improving patient outcomes and reducing costs. Companies are applying machine learning to make better and faster medical diagnoses than humans. One of the best-known healthcare technologies is IBM Watson. It understands natural language and can respond to questions asked of it. The system mines patient data and other available data sources to form a hypothesis, which it then presents with a confidence scoring schema. Other AI applications include using online virtual health assistants and chatbots  to help patients and healthcare customers find medical information, schedule appointments, understand the billing process and complete other administrative processes. 
+
+ ####    AI in business.
+ Machine learning algorithms are being integrated into analytics and customer relationship management  platforms to uncover information on how to better serve customers. Chatbots have been incorporated into websites to provide immediate service to customers. The rapid advancement of generative AI technology such as chatGPT is expected to have far-reaching consequences: eliminating jobs, revolutionizing product design and disrupting business models.
+
+ ####   AI in education. 
+AI can automate grading, giving educators more time for other tasks. It can assess students and adapt to their needs, helping them work at their own pace. AI tutors can provide additional support to students, ensuring they stay on track. The technology could also change where and how students learn, perhaps even replacing some teachers. As demonstrated by ChatGPT and other large language models, generative AI can help educators craft course work and other teaching materials and engage students in new ways. The advent of these tools also forces educators to rethink student homework and testing and revise policies on plagiarism.
+
+  ####    AI in finance.
+ AI in personal finance applications, such as Intuit Mint or TurboTax, is disrupting financial institutions. Applications such as these collect personal data and provide financial advice. Other programs, such as IBM Watson, have been applied to the process of buying a home. Today, artificial intelligence software performs much of the trading on Wall Street.
+
+ ####    AI in law. 
+The discovery process -- sifting through documents -- in law is often overwhelming for humans. Using AI to help automate the legal industry's labor-intensive processes is saving time and improving client service. Law firms use machine learning to describe data and predict outcomes, computer vision to classify and extract information from documents, and NLP to interpret requests for information.
+
+####  AI in entertainment and media. 
+The entertainment business uses AI techniques for targeted advertising, recommending content, distribution, detecting fraud, creating scripts and making movies. Automated journalism helps newsrooms streamline media workflows reducing time, costs and complexity. Newsrooms use AI to automate routine tasks, such as data entry and proofreading; and to research topics and assist with headlines. How journalism can reliably use ChatGPT and other generative AI to generate content is to open a question 
+
+#### AI in software coding and IT processes. 
+New generative AI tools can be used to produce application code based on natural language prompts, but it is early days for these tools and unlikely they will replace software engineers soon. AI is also being used to automate many IT processes, including data entry, fraud detection, customer service, and predictive maintenance and security.
+
+####   Security. 
+AI and machine learning are at the top of the buzzword list security vendors use to market their products, so buyers should approach with caution. Still, AI techniques are being successfully applied to multiple aspect  including anomaly detection, solving the false -positive problem  and conducting behavioral threat analytics. Organizations use machine learning in security information and event management software and related areas to detect anomalies and identify suspicious activities that indicate threats. By analyzing data and using logic to identify similarities to known malicious code, AI can provide alerts to new and emerging attacks much sooner than human employees and previous technology iterations.
+
+####    AI in manufacturing. 
+    Manufacturing has been at the forefront of incorporating robots into the work flow  For example, the industrial robots that were at one time programmed to perform single tasks and separated from human workers, increasingly function as cobot : Smaller, multitasking robots that collaborate with humans and take on responsibility for more parts of the job in warehouses, factory floors and other workspaces.
+
+ #### AI in banking. 
+Banks are successfully employing chatbots to make their customers aware of services and offerings and to handle transactions that don't require human intervention. AI virtual assistants are used to improve and cut the costs of compliance with banking regulations. Banking organizations use AI to improve their decision-making for loans, set credit limits and identify investment opportunities.
+
+  ####  AI in transportation. 
+In addition to AI's fundamental role in operating autonomous vehicles, AI technologies are used in transportation to manage traffic, predict flight delays, and make ocean shipping safer and more efficient. In supply chains, AI is replacing traditional methods of forecasting demand and predicting disruptions, a trend accelerated by COVID-19 when many companies were caught off guard by the effects of a global pandemic on the supply and demand of goods.
+
+## SOURCE : FROM GOGGLE , CHATGPT
+
