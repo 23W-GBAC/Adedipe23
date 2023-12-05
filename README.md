@@ -144,8 +144,6 @@ At the beginning of 1950, John Von Neumann and Alan Turing did not create the te
 #### 		Deployment:
      Once the model has been trained and validated, it can be deployed for real-world use. This involves integrating the AI model into the desired application or system.
 
-#### 		Feedback Loop:
-     AI systems often include a feedback loop where they continuously learn from new data and user interactions, improving their performance over time.
 
   ##            How to use AI:
 
@@ -239,21 +237,23 @@ At the beginning of 1950, John Von Neumann and Alan Turing did not create the te
 
 #### Artificial intelligence has made its way into a wide variety of markets.
 
- ####   AI in healthcare. 
+ #### AI in healthcare. 
+ 
 The biggest bets are on improving patient outcomes and reducing costs. Companies are applying machine learning to make better and faster medical diagnoses than humans. One of the best-known healthcare technologies is IBM Watson. It understands natural language and can respond to questions asked of it. The system mines patient data and other available data sources to form a hypothesis, which it then presents with a confidence scoring schema. Other AI applications include using online virtual health assistants and chatbots  to help patients and healthcare customers find medical information, schedule appointments, understand the billing process and complete other administrative processes. 
 
- ####    AI in business.
+ #### AI in business.
+ 
  Machine learning algorithms are being integrated into analytics and customer relationship management  platforms to uncover information on how to better serve customers. Chatbots have been incorporated into websites to provide immediate service to customers. The rapid advancement of generative AI technology such as chatGPT is expected to have far-reaching consequences: eliminating jobs, revolutionizing product design and disrupting business models.
 
- ####   AI in education. 
+ #### AI in education. 
+ 
 AI can automate grading, giving educators more time for other tasks. It can assess students and adapt to their needs, helping them work at their own pace. AI tutors can provide additional support to students, ensuring they stay on track. The technology could also change where and how students learn, perhaps even replacing some teachers. As demonstrated by ChatGPT and other large language models, generative AI can help educators craft course work and other teaching materials and engage students in new ways. The advent of these tools also forces educators to rethink student homework and testing and revise policies on plagiarism.
 
-  ####    AI in finance.
+  ####  AI in finance.
+  
  AI in personal finance applications, such as Intuit Mint or TurboTax, is disrupting financial institutions. Applications such as these collect personal data and provide financial advice. Other programs, such as IBM Watson, have been applied to the process of buying a home. Today, artificial intelligence software performs much of the trading on Wall Street.
 
- ####    AI in law. 
-The discovery process -- sifting through documents -- in law is often overwhelming for humans. Using AI to help automate the legal industry's labor-intensive processes is saving time and improving client service. Law firms use machine learning to describe data and predict outcomes, computer vision to classify and extract information from documents, and NLP to interpret requests for information.
-
+ 
 ####  AI in entertainment and media. 
 The entertainment business uses AI techniques for targeted advertising, recommending content, distribution, detecting fraud, creating scripts and making movies. Automated journalism helps newsrooms streamline media workflows reducing time, costs and complexity. Newsrooms use AI to automate routine tasks, such as data entry and proofreading; and to research topics and assist with headlines. How journalism can reliably use ChatGPT and other generative AI to generate content is to open a question 
 
@@ -265,9 +265,11 @@ AI and machine learning are at the top of the buzzword list security vendors use
 
 
  #### AI in banking. 
+ 
 Banks are successfully employing chatbots to make their customers aware of services and offerings and to handle transactions that don't require human intervention. AI virtual assistants are used to improve and cut the costs of compliance with banking regulations. Banking organizations use AI to improve their decision-making for loans, set credit limits and identify investment opportunities.
 
   ####  AI in transportation. 
+  
 In addition to AI's fundamental role in operating autonomous vehicles, AI technologies are used in transportation to manage traffic, predict flight delays, and make ocean shipping safer and more efficient. In supply chains, AI is replacing traditional methods of forecasting demand and predicting disruptions, a trend accelerated by COVID-19 when many companies were caught off guard by the effects of a global pandemic on the supply and demand of goods.
 
 ## SOURCE : FROM GOGGLE , CHATGPT
