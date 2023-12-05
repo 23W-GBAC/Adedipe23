@@ -118,56 +118,60 @@ At the beginning of 1950, John Von Neumann and Alan Turing did not create the te
 ## SOURCE : FROM GOGGLE , CHATGPT
 
 
-PAGE 2 ; DATE :05/12/2023
+
+
+
+
+
+# PAGE 2 ; DATE :05/12/2023
 
 ## HOW DOES AI WORKS AND HOW TO USE AI
 
-### A simplified overview of how AI works:
 
   ####        Data Collection:
-    * AI systems require large amounts of data to learn and make predictions or decisions. The quality and quantity of the data play a crucial role in the effectiveness of the AI model
+     AI systems require large amounts of data to learn and make predictions or decisions The quality and quantity of the data play a crucial role in the effectiveness of the AI model
 
    ####          	Data Preprocessing:
-    * Raw data often needs to be cleaned, organized, and transformed before it can be used to train an AI model. This step is crucial for improving the model's accuracy and efficiency.
+     Raw data often needs to be cleaned, organized, and transformed before it can be used to train an AI model. This step is crucial for improving the model's accuracy and efficiency.
 
  #### 	Training the Model:
-    * During the training phase, the AI model learns patterns and features from the preprocessed data. This involves using algorithms to adjust the model's parameters until it can make accurate predictions or classifications.
+     During the training phase, the AI model learns patterns and features from the preprocessed data. This involves using algorithms to adjust the model's parameters until it can make accurate predictions or classifications.
 
    ####            Testing and Validation:
 
-    * The trained model is tested on new data to ensure its performance is not limited to the training set. Validation helps identify and address issues such as overfitting (performing well on the training data but poorly on new data)
+     The trained model is tested on new data to ensure its performance is not limited to the training set. Validation helps identify and address issues such as overfitting (performing well on the training data but poorly on new data)
 
 #### 		Deployment:
-    * Once the model has been trained and validated, it can be deployed for real-world use. This involves integrating the AI model into the desired application or system.
+     Once the model has been trained and validated, it can be deployed for real-world use. This involves integrating the AI model into the desired application or system.
 
 #### 		Feedback Loop:
-    * AI systems often include a feedback loop where they continuously learn from new data and user interactions, improving their performance over time.
+     AI systems often include a feedback loop where they continuously learn from new data and user interactions, improving their performance over time.
 
   ##            How to use AI:
 
 #### 		Identify a Problem or Task:
-    * Determine a specific problem or task where AI can provide value. This could range from automating repetitive tasks to making predictions based on data.
+     Determine a specific problem or task where AI can provide value. This could range from automating repetitive tasks to making predictions based on data.
    
 ####  Data Collection:
-    * Gather relevant data for the task at hand. The quality and quantity of data are critical factors in the success of an AI model.
+     Gather relevant data for the task at hand. The quality and quantity of data are critical factors in the success of an AI model.
 
   #### Choose an AI Approach:
-    * Select the appropriate AI approach based on the nature of the problem. This could involve using machine learning algorithms for pattern recognition or natural language processing for understanding and generating human language.
+     Select the appropriate AI approach based on the nature of the problem. This could involve using machine learning algorithms for pattern recognition or natural language processing for understanding and generating human language.
 
 #### 		Select or Develop a Model:
-    * Choose an existing AI model or develop a custom model based on the chosen approach. Many pre-trained models are available for common tasks.
+     Choose an existing AI model or develop a custom model based on the chosen approach. Many pre-trained models are available for common tasks.
 
  #### Train the Model:
-    * Train the model using the collected and preprocessed data. This step involves adjusting the model's parameters to improve its performance on the specific task.
+     Train the model using the collected and preprocessed data. This step involves adjusting the model's parameters to improve its performance on the specific task.
 
 #### 		Testing and Validation:
-    * Evaluate the model's performance on new data to ensure it generalizes well and performs accurately in real-world scenarios.
+     Evaluate the model's performance on new data to ensure it generalizes well and performs accurately in real-world scenarios.
 
 #### 		Deployment:
-    * Integrate the trained model into the intended application or system for practical use.
+     Integrate the trained model into the intended application or system for practical use.
 
 #### 		Monitor and Update:
-    * Continuously monitor the AI system's performance, and update the model as needed. This may involve retraining the model with new data to adapt to changing conditions.
+     Continuously monitor the AI system's performance, and update the model as needed. This may involve retraining the model with new data to adapt to changing conditions.
 
 
 
