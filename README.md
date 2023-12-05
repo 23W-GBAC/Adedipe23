@@ -259,8 +259,6 @@ New generative AI tools can be used to produce application code based on natural
 ####   Security. 
 AI and machine learning are at the top of the buzzword list security vendors use to market their products, so buyers should approach with caution. Still, AI techniques are being successfully applied to multiple aspect  including anomaly detection, solving the false -positive problem  and conducting behavioral threat analytics. Organizations use machine learning in security information and event management software and related areas to detect anomalies and identify suspicious activities that indicate threats. By analyzing data and using logic to identify similarities to known malicious code, AI can provide alerts to new and emerging attacks much sooner than human employees and previous technology iterations.
 
-####    AI in manufacturing. 
-    Manufacturing has been at the forefront of incorporating robots into the work flow  For example, the industrial robots that were at one time programmed to perform single tasks and separated from human workers, increasingly function as cobot : Smaller, multitasking robots that collaborate with humans and take on responsibility for more parts of the job in warehouses, factory floors and other workspaces.
 
  #### AI in banking. 
 Banks are successfully employing chatbots to make their customers aware of services and offerings and to handle transactions that don't require human intervention. AI virtual assistants are used to improve and cut the costs of compliance with banking regulations. Banking organizations use AI to improve their decision-making for loans, set credit limits and identify investment opportunities.
