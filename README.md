@@ -235,7 +235,6 @@ At the beginning of 1950, John Von Neumann and Alan Turing did not create the te
 
 # What are the applications of AI?
 
-#### Artificial intelligence has made its way into a wide variety of markets.
 
 ####   AI In Health Care 
  
@@ -264,11 +263,11 @@ New generative AI tools can be used to produce application code based on natural
 AI and machine learning are at the top of the buzzword list security vendors use to market their products, so buyers should approach with caution. Still, AI techniques are being successfully applied to multiple aspect  including anomaly detection, solving the false -positive problem  and conducting behavioral threat analytics. Organizations use machine learning in security information and event management software and related areas to detect anomalies and identify suspicious activities that indicate threats. By analyzing data and using logic to identify similarities to known malicious code, AI can provide alerts to new and emerging attacks much sooner than human employees and previous technology iterations.
 
 
- #### AI in banking. 
+####   AI In Banking. 
  
 Banks are successfully employing chatbots to make their customers aware of services and offerings and to handle transactions that don't require human intervention. AI virtual assistants are used to improve and cut the costs of compliance with banking regulations. Banking organizations use AI to improve their decision-making for loans, set credit limits and identify investment opportunities.
 
-  ####  AI in transportation. 
+####   AI In Transportation. 
   
 In addition to AI's fundamental role in operating autonomous vehicles, AI technologies are used in transportation to manage traffic, predict flight delays, and make ocean shipping safer and more efficient. In supply chains, AI is replacing traditional methods of forecasting demand and predicting disruptions, a trend accelerated by COVID-19 when many companies were caught off guard by the effects of a global pandemic on the supply and demand of goods.
 
