@@ -277,7 +277,7 @@ In addition to AI's fundamental role in operating autonomous vehicles, AI techno
 ### PAGE 3 ( 30/12/2023)
 
 # CAN AI BE DANGEROUS 
-![Tux, the Linux mascot](Artificial-Intelligence-is-Posing-These)
+ ![Tux, the Linux mascot](Artificial-Intelligence-is-Posing-These-5-Risks-to-Humankind.jpg)
 
 Artificial Intelligence (AI) holds immense potential for transforming various aspects of our lives, from automating routine tasks to advancing medical diagnostics. However, the rapid progress in AI technology has also raised concerns about its potential dangers. The question of whether AI can be dangerous is complex and multifaceted, touching upon ethical, societal, and technical dimensions.
 One significant concern revolves around the idea of autonomous AI systems making decisions without human intervention. If these systems operate based on flawed algorithms or biased data, they can perpetuate and even amplify existing societal inequalities. For instance, biased facial recognition algorithms have been shown to disproportionately misidentify individuals from certain ethnic groups, leading to discriminatory consequences. This raises ethical questions about the responsible development and deployment of AI technologies.
