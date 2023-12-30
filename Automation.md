@@ -24,8 +24,13 @@ df.to_csv("preprocessed_data.csv", index=False)
 #### Errors and Solutions:
 
 Error: Connection issues while fetching data.
+
 Solution: Add error handling using try-except blocks.
+
 Error: Inconsistent data format from the API.
+
 Solution: Check the API documentation and modify the script to handle different data formats.
+
 Error: Unanticipated missing values.
+
 Solution: Implement more robust methods for handling missing values, such as imputation.
