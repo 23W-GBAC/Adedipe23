@@ -4,7 +4,7 @@
 ###                                    Challenges in AI automation
  They include algorithmic biases, data quality issues, and ethical concerns. Biases may arise from biased training data, requiring diverse and representative datasets. Poor data quality can lead to inaccurate predictions; addressing this involves data cleansing and validation. Ethical challenges, such as privacy issues, call for robust ethical frameworks and compliance with regulations. Regular audits, transparency, and ethical guidelines help mitigate errors, ensuring responsible and effective AI automation.
 
-IN
+
 
 # Week 1: Data Collection and Preprocessing
 we will focus on gathering relevant data for my AI blog post and preprocessing it for analysis.
