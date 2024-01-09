@@ -1,11 +1,9 @@
 # ADEDIPE DAMILOLA EMMANUEL                                                  
-###  PAGE 1                         
-### TOPIC 
+###  PAGE 1                          
 ### [MY AUTOMATION_BLOG](Automation.md)
-![Tux, the Linux mascot](/blog_images/Artificial-Intelligence1.jpg)
-
-
+### TOPIC
 ## ARTIFICIAL INTELLIGENCE (AI)
+![Tux, the Linux mascot](/blog_images/Artificial-Intelligence1.jpg)
 
 *WHAT IS ARTIFICIAL INTELLIGENCE (AI)*
 
