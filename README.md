@@ -1,7 +1,7 @@
 # ADEDIPE DAMILOLA EMMANUEL                                                  
-#  PAGE 1                         
-# TOPIC 
-
+###  PAGE 1                         
+### TOPIC 
+### [MY AUTOMATION_BLOG](Automation.md)
 ![Tux, the Linux mascot](/blog_images/Artificial-Intelligence1.jpg)
 
 
@@ -353,4 +353,4 @@ Machine learning algorithms have become integral to solving complex problems and
 
 #### SOURCE GOOGLE & CHATGPT
 
-[MY AUTOMATION_BLOG](Automation.md)
+# [MY AUTOMATION_BLOG](Automation.md)
