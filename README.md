@@ -317,6 +317,8 @@ DATE - 9/01/2024
 
 Machine Learning (ML) has emerged as a transformative technology that enables computers to learn from data and improve their performance over time without explicit programming. Within the vast realm of machine learning, various algorithms are employed to achieve different objectives. In this exploration, we delve into three fundamental categories of machine learning algorithms: Supervised Learning, Unsupervised Learning, and Reinforcement Learning. Additionally, we'll explore the fascinating applications of Natural Language Processing (NLP), focusing on Text Analysis, Sentiment Analysis, and Language Translation.
 
+![Tux, the Linux mascot](machine_learning_concept_3d_rendering_ai_robot_with_graphic_hud_interface_1_363805a172.jpg)
+
 ### Supervised Learning:
 
 Supervised Learning is a type of machine learning where the algorithm is trained on a labeled dataset, meaning that the input data is paired with corresponding output labels. The goal is for the algorithm to learn the mapping between inputs and outputs, allowing it to make predictions on new, unseen data. Common algorithms in supervised learning include Linear Regression, Decision Trees, Support Vector Machines (SVM), and Neural Networks. Applications range from predicting stock prices to classifying spam emails and identifying objects in images.
