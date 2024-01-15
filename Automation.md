@@ -84,4 +84,29 @@ print(f"Model Accuracy: {accuracy}")
   - Solution: Tune hyperparameters or try a different model architecture to prevent overfitting.
 
 
+# Week 3 - Model Deployment
+
+# Import necessary libraries
+import joblib
+
+## Step 1: Save the trained model
+joblib.dump(model, "trained_model.joblib")
+
+## Step 2: Create a function for making predictions
+def predict(input_data):
+    loaded_model = joblib.load("trained_model.joblib")
+    return loaded_model.predict(input_data)
+
+## Step 3: Use the predict function for making predictions
+new_data = pd.DataFrame({"feature_1": [value], "feature_2": [value]})
+prediction = predict(new_data)
+print(f"Model Prediction: {prediction}")
+```
+
+**Errors and Solutions:**
+- Error: Compatibility issues with the deployment environment.
+  - Solution: Ensure that the deployment environment supports the required libraries and versions.
+
+- Error: Input data format mismatch.
+  - Solution: Validate and preprocess input data to match the format expected by the model.
 
