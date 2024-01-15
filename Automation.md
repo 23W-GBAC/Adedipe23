@@ -86,7 +86,7 @@ print(f"Model Accuracy: {accuracy}")
 
 # Week 3 - Model Deployment
 
-# Import necessary libraries
+## Import necessary libraries
 import joblib
 
 ## Step 1: Save the trained model
