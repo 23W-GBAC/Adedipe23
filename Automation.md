@@ -103,7 +103,7 @@ prediction = predict(new_data)
 print(f"Model Prediction: {prediction}")
 ```
 
-**Errors and Solutions:**
+  ### Errors and Solutions:**
 - Error: Compatibility issues with the deployment environment.
   - Solution: Ensure that the deployment environment supports the required libraries and versions.
 
