@@ -22,7 +22,7 @@ url = "https://api.example.com/data"
 response = requests.get(url)
 data = response.json()
 ```
-#### Step 2: Convert data to a DataFrame for easier manipulation
+#### Step 2: Convert data to a DataFrame for easier manipulation.
 ```
 df = pd.DataFrame(data)
 ```
