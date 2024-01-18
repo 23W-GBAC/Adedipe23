@@ -41,7 +41,7 @@ Solution: Check the API documentation and modify the script to handle different 
 
 Error: Unanticipated missing values.
 
-Solution: Implement more robust methods for handling missing values, such as imputation
+Solution: Implement more robust methods for handling missing values, such as imputation.
 
 
 # Week 2: Model Selection and Training
