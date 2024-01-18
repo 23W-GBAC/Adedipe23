@@ -11,7 +11,7 @@ we will focus on gathering relevant data for my AI blog post and preprocessing i
 ## Python Script:
 #### Week 1 - Data Collection and Preprocessing
 
-#### Import necessary libraries
+#### Import necessary libraries.
 import requests
 import pandas as pd
 
