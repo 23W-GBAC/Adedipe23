@@ -19,7 +19,7 @@ They include:
 ### 2. General or strong AI, 
 ### 3. Artificial superintelligence.
 
-## NARROW OR WEAK AI :
+## NARROW OR WEAK AI .:
 
 This type of AI is designed to perform a specific task or a narrow set of tasks. It operates within a predefined range and lacks the ability to generalize to different domains. Examples include voice assistants like Siri or Alexa, image recognition software, and recommendation algorithms
 
