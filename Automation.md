@@ -12,23 +12,29 @@ we will focus on gathering relevant data for my AI blog post and preprocessing i
 #### Week 1 - Data Collection and Preprocessing.
 
 #### Import necessary libraries.
+```
 import requests
 import pandas as pd
-
+```
 #### Step 1: Collect data from a web source (e.g., an API)
+```
 url = "https://api.example.com/data"
 response = requests.get(url)
 data = response.json()
-
+```
 #### Step 2: Convert data to a DataFrame for easier manipulation
+```
 df = pd.DataFrame(data)
-
+```
 #### Step 3: Handle missing values or outliers
+```
 df = df.dropna()  # Example: Removing rows with missing values
+```
 
 #### Step 4: Save the preprocessed data for future use
+```
 df.to_csv("preprocessed_data.csv", index=False)
-
+```
 #### Errors and Solutions:
 
 Error: Connection issues while fetching data.
@@ -50,22 +56,25 @@ This week, concentrate on choosing an AI model, training it on your preprocessed
 
 **Python Script:**
 
-```python
+python
 # Week 2 - Model Selection and Training
  
 # Import necessary libraries
+```
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
-
+```
 # Step 1: Load the preprocessed data
+```
 df = pd.read_csv("preprocessed_data.csv")
-
+```
 # Step 2: Split the data into training and testing sets
+```
 X = df.drop("target_column", axis=1)
 y = df["target_column"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
+```
 # Step 3: Choose and train a model
 model = RandomForestClassifier()
 model.fit(X_train, y_train)
@@ -74,7 +83,7 @@ model.fit(X_train, y_train)
 predictions = model.predict(X_test)
 accuracy = accuracy_score(y_test, predictions)
 print(f"Model Accuracy: {accuracy}")
-```
+
 
 **Errors and Solutions:**
 - Error: Insufficient data for model training.
@@ -93,15 +102,17 @@ import joblib
 joblib.dump(model, "trained_model.joblib")
 
 ## Step 2: Create a function for making predictions
+```
 def predict(input_data):
     loaded_model = joblib.load("trained_model.joblib")
     return loaded_model.predict(input_data)
-
+```
 ## Step 3: Use the predict function for making predictions
+```
 new_data = pd.DataFrame({"feature_1": [value], "feature_2": [value]})
 prediction = predict(new_data)
 print(f"Model Prediction: {prediction}")
-
+```
 ## Errors and Solutions:**
 - Error: Compatibility issues with the deployment environment.
   - Solution: Ensure that the deployment environment supports the required libraries and versions.
