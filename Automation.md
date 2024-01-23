@@ -57,7 +57,7 @@ This week, concentrate on choosing an AI model, training it on your preprocessed
 **Python Script:**
 
 python
-# Week 2 - Model Selection and Training
+ Week 2 - Model Selection and Training
  
 # Import necessary libraries
 ```
