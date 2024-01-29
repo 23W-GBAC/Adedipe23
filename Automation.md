@@ -119,3 +119,52 @@ print(f"Model Prediction: {prediction}")
 
 - Error: Input data format mismatch.
   - Solution: Validate and preprocess input data to match the format expected by the model.
+ 
+
+
+
+# Week 4: Monitoring and Maintenance
+
+In the final week, concentrate on setting up monitoring for your deployed model and addressing potential issues.
+
+**Python Script:**
+
+```python
+# Week 4 - Monitoring and Maintenance
+
+# Import necessary libraries
+import logging
+import time
+
+# Step 1: Implement logging for monitoring
+logging.basicConfig(filename="model_logs.log", level=logging.INFO)
+
+# Step 2: Periodically check the model's performance
+while True:
+    try:
+        # Fetch new data for monitoring
+        # Perform preprocessing if necessary
+        # Make predictions using the deployed model
+        # Log relevant information
+        logging.info("Model performance check successful.")
+        time.sleep(86400)  # Check every 24 hours
+    except Exception as e:
+        logging.error(f"Error in model performance check: {e}")
+        time.sleep(3600)  # Retry every hour in case of errors
+```
+
+### **Errors and Solutions:**
+- Error: Unforeseen errors during monitoring.
+  - Solution: Implement comprehensive error handling and logging to identify and address issues.
+
+- Error: Drift in data distribution affecting model performance.
+  - Solution: Implement retraining strategies or update the model based on the new data distribution.
+
+Remember that this is a general outline, and the specifics may vary based on the nature of your AI problem and the tools and frameworks you are using. Adapt and expand the script as needed for your specific case.ations.
+
+# Conclusion 
+Automating a task with AI is a dynamic process that involves overcoming various challenges. By navigating through errors and implementing robust solutions, we successfully automated our problem over a span of 4 weeks. Continuous monitoring and a proactive approach to issues ensure that our AI system remains effective in the long run. Remember, the journey of AI automation is as valuable as the destination, as it sharpens your skills and deepens your understanding of the technology.
+
+
+
+
