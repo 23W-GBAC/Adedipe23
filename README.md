@@ -120,7 +120,6 @@ At the beginning of 1950, John Von Neumann and Alan Turing did not create the te
 
 
 
-
 # PAGE 2 ; DATE :05/12/2023
 
 ## HOW DOES AI WORKS AND HOW TO USE AI
