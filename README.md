@@ -7,7 +7,7 @@
 
 *WHAT IS ARTIFICIAL INTELLIGENCE (AI)*
 
-  *Artificial intelligence* is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing  speech recognition and machine vision 
+  *Artificial intelligence* is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing  speech recognition and machine vision.
 
 It can also be defined as the development of computer systems that can perform tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, understanding natural language, speech recognition, and visual perception. AI aims to create machines or software that can simulate human cognitive functions and adapt to new information.
  
