@@ -217,7 +217,7 @@ To manage societal and cultural impacts, efforts must be directed towards foster
 
 # Conclusion 
 Automating a task with AI is a dynamic process that involves overcoming various challenges. By navigating through errors and implementing robust solutions, we successfully automated our problem over a span of 4 weeks. Continuous monitoring and a proactive approach to issues ensure that our AI system remains effective in the long run. Remember, the journey of AI automation is as valuable as the destination, as it sharpens your skills and deepens your understanding of the technology.
-
+##### Source : CHATGPT
 
 
 
